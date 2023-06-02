@@ -1,0 +1,4 @@
+streamlit==1.22.0
+plotly==5.14.1
+pandas==1.4.3
+boto3
